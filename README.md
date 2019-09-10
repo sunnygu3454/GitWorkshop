@@ -8,6 +8,6 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
--Sunny Gu
+-Sunny Gu 
 -I like drawing. I play tennis.
 -to pass the course and learn what I can.
